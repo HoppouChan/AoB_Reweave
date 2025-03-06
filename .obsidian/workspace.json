@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2096267ceed59e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a23bef321ddf7773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046902f0e90ab4c7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Story Timeline/Timeline.canvas",
+                "viewState": {
+                  "x": -235.22296115958807,
+                  "y": -744.8139829164245,
+                  "zoom": -2.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef694efe0c6c55bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd1bafb3f679159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rozemyne Y5&Y6"
+            }
+          },
+          {
+            "id": "5a1c3d7de857eaef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invasion of Yurgenschmidt"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "297da3a81c8184f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e12d64591c02dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b62b4d1105bb7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c780c7d299ba3fb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee78185c8995b459",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49c8c48029f4a0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fadd50dc141cf55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976efa38b8694078",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Story Timeline/Timeline.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timeline"
+            }
+          },
+          {
+            "id": "d3f8c1b79d5bdf79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Story Timeline/Timeline.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timeline"
+            }
+          },
+          {
+            "id": "c941fae6cbba9bbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "259224059ab9c1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Story Timeline/Timeline.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "046902f0e90ab4c7",
+  "lastOpenFiles": [
+    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
+    "Story Timeline/Timeline.canvas",
+    "Story Timeline/Past Weave/Royal Life.md",
+    "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
+    "Story Chapters/Untitled.md",
+    "Story Timeline/Past Weave/Rozemyne Y4.md",
+    "Story Timeline/Past Weave/Ferdinand in Ahrensbach.md",
+    "Story Timeline/Past Weave/Point of Divergence.md",
+    "Story Timeline/Past Weave",
+    "create a link.md",
+    "Story Timeline",
+    "Character Notes",
+    "Story Chapters",
+    "Welcome.md"
+  ]
+}

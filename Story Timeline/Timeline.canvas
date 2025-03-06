@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ffd2e199cbdb5d80","type":"group","x":-2960,"y":-640,"width":3120,"height":1600,"label":"Past Weave"},
+		{"id":"73e0591e73d66cee","type":"file","file":"Story Timeline/Past Weave/Rozemyne Y5&Y6.md","x":-1680,"y":-348,"width":400,"height":400},
+		{"id":"fa7a37b7205d499b","type":"file","file":"Story Timeline/Past Weave/Rozemyne Y4.md","x":-2320,"y":-348,"width":400,"height":400},
+		{"id":"0a940509a70d6015","type":"file","file":"Story Timeline/Past Weave/Point of Divergence.md","x":-2840,"y":-338,"width":300,"height":380},
+		{"id":"6716d4f64312b480","type":"file","file":"Story Timeline/Past Weave/Royal Life.md","x":-1040,"y":-348,"width":400,"height":400},
+		{"id":"ac5363210b1ccf86","x":-480,"y":-348,"width":400,"height":400,"type":"file","file":"Story Timeline/Past Weave/Invasion of Yurgenschmidt.md"},
+		{"id":"67d88c40eb656302","type":"file","file":"Story Timeline/Past Weave/Ferdinand in Ahrensbach.md","x":-1680,"y":320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"dfde8e45296b1389","fromNode":"0a940509a70d6015","fromSide":"right","toNode":"fa7a37b7205d499b","toSide":"left"},
+		{"id":"493e61ae20025be5","fromNode":"0a940509a70d6015","fromSide":"bottom","toNode":"67d88c40eb656302","toSide":"left"},
+		{"id":"a8fc624740c6a06e","fromNode":"fa7a37b7205d499b","fromSide":"right","toNode":"73e0591e73d66cee","toSide":"left"},
+		{"id":"38ac5f281fac8ac1","fromNode":"73e0591e73d66cee","fromSide":"right","toNode":"6716d4f64312b480","toSide":"left"},
+		{"id":"8cac17ce173574e0","fromNode":"6716d4f64312b480","fromSide":"right","toNode":"ac5363210b1ccf86","toSide":"left"},
+		{"id":"44b3da81ea3e58b1","fromNode":"67d88c40eb656302","fromSide":"right","toNode":"ac5363210b1ccf86","toSide":"bottom"}
+	]
+}
