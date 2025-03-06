@@ -6,6 +6,7 @@
       {
         "id": "a23bef321ddf7773",
         "type": "tabs",
+        "dimension": 74.59386281588448,
         "children": [
           {
             "id": "046902f0e90ab4c7",
@@ -15,9 +16,9 @@
               "state": {
                 "file": "Story Timeline/Timeline.canvas",
                 "viewState": {
-                  "x": -235.22296115958807,
-                  "y": -744.8139829164245,
-                  "zoom": -2.6666666666666665
+                  "x": 2629.151050934822,
+                  "y": 177.63747156365218,
+                  "zoom": -1.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -29,6 +30,7 @@
       {
         "id": "ef694efe0c6c55bd",
         "type": "tabs",
+        "dimension": 25.406137184115522,
         "children": [
           {
             "id": "dcd1bafb3f679159",
@@ -208,11 +210,17 @@
   },
   "active": "046902f0e90ab4c7",
   "lastOpenFiles": [
-    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
+    "Story Timeline/AM5 Events/Noble Quarter.md",
     "Story Timeline/Timeline.canvas",
+    "Character Notes/Erenit (or legally distinct youngest daughter of Joisontak).md",
+    "Character Notes/Rozemyne.md",
+    "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
+    "Story Timeline/AM5 Events",
+    "Story Chapters/Chapter 1 - Second First Steps.md",
+    "Story Chapters/Prologue - Vertigo, Nausea and a Welcome Respite.md",
+    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
     "Story Timeline/Past Weave/Royal Life.md",
     "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
-    "Story Chapters/Untitled.md",
     "Story Timeline/Past Weave/Rozemyne Y4.md",
     "Story Timeline/Past Weave/Ferdinand in Ahrensbach.md",
     "Story Timeline/Past Weave/Point of Divergence.md",

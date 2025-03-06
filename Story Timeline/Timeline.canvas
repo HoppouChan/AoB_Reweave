@@ -1,12 +1,19 @@
 {
 	"nodes":[
-		{"id":"ffd2e199cbdb5d80","type":"group","x":-2960,"y":-640,"width":3120,"height":1600,"label":"Past Weave"},
+		{"id":"ffd2e199cbdb5d80","type":"group","x":-2960,"y":-640,"width":3040,"height":1600,"label":"Past Weave"},
+		{"id":"69d6eaa18e9cd8bb","type":"group","x":1360,"y":-640,"width":2992,"height":1600,"label":"AM5"},
+		{"id":"0a940509a70d6015","type":"file","file":"Story Timeline/Past Weave/Point of Divergence.md","x":-2840,"y":-338,"width":300,"height":380},
 		{"id":"73e0591e73d66cee","type":"file","file":"Story Timeline/Past Weave/Rozemyne Y5&Y6.md","x":-1680,"y":-348,"width":400,"height":400},
 		{"id":"fa7a37b7205d499b","type":"file","file":"Story Timeline/Past Weave/Rozemyne Y4.md","x":-2320,"y":-348,"width":400,"height":400},
-		{"id":"0a940509a70d6015","type":"file","file":"Story Timeline/Past Weave/Point of Divergence.md","x":-2840,"y":-338,"width":300,"height":380},
+		{"id":"ac5363210b1ccf86","type":"file","file":"Story Timeline/Past Weave/Invasion of Yurgenschmidt.md","x":-480,"y":-348,"width":400,"height":400},
+		{"id":"67d88c40eb656302","type":"file","file":"Story Timeline/Past Weave/Ferdinand in Ahrensbach.md","x":-1680,"y":320,"width":400,"height":400},
+		{"id":"2639797e43060d5d","type":"file","file":"Story Chapters/Prologue - Vertigo, Nausea and a Welcome Respite.md","x":480,"y":-338,"width":400,"height":400},
+		{"id":"e7f17b7d7e7b084f","type":"file","file":"Story Chapters/Chapter 1 - Second First Steps.md","x":1712,"y":-358,"width":400,"height":400},
+		{"id":"0f188c288e7bf878","type":"file","file":"Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md","x":2512,"y":-358,"width":400,"height":400},
+		{"id":"ffaac52878608403","type":"text","text":"[[Erenit (or legally distinct youngest daughter of Joisontak)]] starts the Bridal Training","x":1787,"y":258,"width":250,"height":124},
 		{"id":"6716d4f64312b480","type":"file","file":"Story Timeline/Past Weave/Royal Life.md","x":-1040,"y":-348,"width":400,"height":400},
-		{"id":"ac5363210b1ccf86","x":-480,"y":-348,"width":400,"height":400,"type":"file","file":"Story Timeline/Past Weave/Invasion of Yurgenschmidt.md"},
-		{"id":"67d88c40eb656302","type":"file","file":"Story Timeline/Past Weave/Ferdinand in Ahrensbach.md","x":-1680,"y":320,"width":400,"height":400}
+		{"id":"5202e8cb859b4f2d","x":1787,"y":460,"width":250,"height":60,"type":"text","text":"Heidemarie dies"},
+		{"id":"4d7af1055a57ad88","x":1787,"y":580,"width":250,"height":60,"type":"text","text":"Ferdinand becomes High Priest"}
 	],
 	"edges":[
 		{"id":"dfde8e45296b1389","fromNode":"0a940509a70d6015","fromSide":"right","toNode":"fa7a37b7205d499b","toSide":"left"},
@@ -14,6 +21,9 @@
 		{"id":"a8fc624740c6a06e","fromNode":"fa7a37b7205d499b","fromSide":"right","toNode":"73e0591e73d66cee","toSide":"left"},
 		{"id":"38ac5f281fac8ac1","fromNode":"73e0591e73d66cee","fromSide":"right","toNode":"6716d4f64312b480","toSide":"left"},
 		{"id":"8cac17ce173574e0","fromNode":"6716d4f64312b480","fromSide":"right","toNode":"ac5363210b1ccf86","toSide":"left"},
-		{"id":"44b3da81ea3e58b1","fromNode":"67d88c40eb656302","fromSide":"right","toNode":"ac5363210b1ccf86","toSide":"bottom"}
+		{"id":"44b3da81ea3e58b1","fromNode":"67d88c40eb656302","fromSide":"right","toNode":"ac5363210b1ccf86","toSide":"bottom"},
+		{"id":"7a7559178758cf10","fromNode":"ac5363210b1ccf86","fromSide":"right","toNode":"2639797e43060d5d","toSide":"left"},
+		{"id":"f4705f520d6a6808","fromNode":"2639797e43060d5d","fromSide":"right","toNode":"e7f17b7d7e7b084f","toSide":"left"},
+		{"id":"9a1bc6fd8d4fac55","fromNode":"e7f17b7d7e7b084f","fromSide":"right","toNode":"0f188c288e7bf878","toSide":"left"}
 	]
 }
