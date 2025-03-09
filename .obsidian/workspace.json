@@ -12,17 +12,14 @@
             "id": "046902f0e90ab4c7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Story Timeline/Timeline.canvas",
-                "viewState": {
-                  "x": 2629.151050934822,
-                  "y": 177.63747156365218,
-                  "zoom": -1.9999999999999998
-                }
+                "file": "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Family Meeting before the Arrival of Schneeahst"
             }
           }
         ]
@@ -114,7 +111,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,10 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "046902f0e90ab4c7",
+  "active": "c780c7d299ba3fb7",
   "lastOpenFiles": [
-    "Story Timeline/AM5 Events/Noble Quarter.md",
     "Story Timeline/Timeline.canvas",
+    "Story Timeline/AM5 Events/Noble Quarter.md",
     "Character Notes/Erenit (or legally distinct youngest daughter of Joisontak).md",
     "Character Notes/Rozemyne.md",
     "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
