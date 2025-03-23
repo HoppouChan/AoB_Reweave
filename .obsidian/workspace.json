@@ -6,7 +6,7 @@
       {
         "id": "a23bef321ddf7773",
         "type": "tabs",
-        "dimension": 74.59386281588448,
+        "dimension": 74.61928934010153,
         "children": [
           {
             "id": "046902f0e90ab4c7",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
+                "file": "Character Notes/Goddess of Remembrance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - Family Meeting before the Arrival of Schneeahst"
+              "title": "Goddess of Remembrance"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "ef694efe0c6c55bd",
         "type": "tabs",
-        "dimension": 25.406137184115522,
+        "dimension": 25.380710659898476,
         "children": [
           {
             "id": "dcd1bafb3f679159",
@@ -111,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,17 +205,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c780c7d299ba3fb7",
+  "active": "046902f0e90ab4c7",
   "lastOpenFiles": [
+    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
+    "Character Notes/Goddess of Remembrance.md",
+    "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
     "Story Timeline/Timeline.canvas",
     "Story Timeline/AM5 Events/Noble Quarter.md",
     "Character Notes/Erenit (or legally distinct youngest daughter of Joisontak).md",
     "Character Notes/Rozemyne.md",
-    "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
     "Story Timeline/AM5 Events",
     "Story Chapters/Chapter 1 - Second First Steps.md",
     "Story Chapters/Prologue - Vertigo, Nausea and a Welcome Respite.md",
-    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
     "Story Timeline/Past Weave/Royal Life.md",
     "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
     "Story Timeline/Past Weave/Rozemyne Y4.md",
