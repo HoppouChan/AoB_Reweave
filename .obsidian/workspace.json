@@ -6,88 +6,25 @@
       {
         "id": "a23bef321ddf7773",
         "type": "tabs",
-        "dimension": 74.61928934010153,
         "children": [
           {
             "id": "046902f0e90ab4c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Character Notes/Goddess of Remembrance.md",
-                "mode": "source",
-                "source": false
+                "file": "Story Timeline/Timeline.canvas",
+                "viewState": {
+                  "x": 8041.124308501944,
+                  "y": -68.16882758902877,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "Goddess of Remembrance"
-            }
-          },
-          {
-            "id": "a6b30a4ee89b04fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Notes/Mila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mila"
-            }
-          },
-          {
-            "id": "12daf5f6927210e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Notes/Dolores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dolores"
+              "icon": "lucide-layout-dashboard",
+              "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ef694efe0c6c55bd",
-        "type": "tabs",
-        "dimension": 25.380710659898476,
-        "children": [
-          {
-            "id": "dcd1bafb3f679159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rozemyne Y5&Y6"
-            }
-          },
-          {
-            "id": "5a1c3d7de857eaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Invasion of Yurgenschmidt"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,25 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12daf5f6927210e9",
+  "active": "046902f0e90ab4c7",
   "lastOpenFiles": [
+    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
+    "Story Timeline/Timeline.canvas",
     "Character Notes/Mila.md",
+    "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
+    "Story Timeline/Past Weave/Rozemyne Y4.md",
+    "Story Timeline/Past Weave/Royal Life.md",
+    "Story Timeline/Past Weave/Point of Divergence.md",
     "Character Notes/Dolores.md",
     "Character Notes/Goddess of Remembrance.md",
     "Character Notes/Rozemyne.md",
     "Character Notes/Erenit (or legally distinct youngest daughter of Joisontak).md",
-    "Story Timeline/Past Weave/Invasion of Yurgenschmidt.md",
     "Story Chapters/Chapter 2 - Family Meeting before the Arrival of Schneeahst.md",
-    "Story Timeline/Timeline.canvas",
     "Story Timeline/AM5 Events/Noble Quarter.md",
     "Story Timeline/AM5 Events",
     "Story Chapters/Chapter 1 - Second First Steps.md",
     "Story Chapters/Prologue - Vertigo, Nausea and a Welcome Respite.md",
-    "Story Timeline/Past Weave/Royal Life.md",
-    "Story Timeline/Past Weave/Rozemyne Y5&Y6.md",
-    "Story Timeline/Past Weave/Rozemyne Y4.md",
     "Story Timeline/Past Weave/Ferdinand in Ahrensbach.md",
-    "Story Timeline/Past Weave/Point of Divergence.md",
     "Story Timeline/Past Weave",
     "create a link.md",
     "Story Timeline",
